@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ada1ed3e-66f3-492a-9b48-1e3376deb88c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sdk/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/sdk/PointTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lVra5fxAIPmsTBF4ayAJNjNhvx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.sdk" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.sdk" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CollectionTest.test">
+    <configuration name="CollectionTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heroes-bundle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdk" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdk.CollectionTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SegmentTest.blabla" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heroes-bundle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdk" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdk.SegmentTest" />
+      <option name="METHOD_NAME" value="blabla" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatDoYouKnowAboutObjectsTest.blabla" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heroes-bundle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdk" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdk.WhatDoYouKnowAboutObjectsTest" />
+      <option name="METHOD_NAME" value="blabla" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatDoYouKnowAboutObjectsTest.copyObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heroes-bundle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdk" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdk.WhatDoYouKnowAboutObjectsTest" />
+      <option name="METHOD_NAME" value="copyObject" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhatDoYouKnowAboutObjectsTest.equalOperator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="heroes-bundle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.sdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.sdk" />
+      <option name="MAIN_CLASS_NAME" value="pl.sdk.WhatDoYouKnowAboutObjectsTest" />
+      <option name="METHOD_NAME" value="equalOperator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CollectionTest.test" />
+        <item itemvalue="JUnit.SegmentTest.blabla" />
+        <item itemvalue="JUnit.WhatDoYouKnowAboutObjectsTest.blabla" />
+        <item itemvalue="JUnit.WhatDoYouKnowAboutObjectsTest.copyObject" />
+        <item itemvalue="JUnit.WhatDoYouKnowAboutObjectsTest.equalOperator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ada1ed3e-66f3-492a-9b48-1e3376deb88c" name="Default Changelist" comment="" />
+      <created>1607693159637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607693159637</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1540" y="125" width="1720" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1617139768315">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1540" y="125" width="1720" height="855" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617139768315" />
+    <state x="2174" y="416" width="451" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1617138881507">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2174" y="416" width="451" height="282" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617138881507" />
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom" timestamp="1617143051702">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.bottom/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617143051702" />
+    <state width="1878" height="287" key="GridCell.Tab.0.center" timestamp="1617143051701">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.center/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617143051701" />
+    <state width="1878" height="287" key="GridCell.Tab.0.left" timestamp="1617143051701">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.left/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617143051701" />
+    <state width="1878" height="287" key="GridCell.Tab.0.right" timestamp="1617143051702">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="287" key="GridCell.Tab.0.right/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617143051702" />
+    <state x="2079" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1617130151533">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2079" y="381" key="com.intellij.ide.util.TipDialog/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617130151533" />
+    <state x="2065" y="259" width="670" height="676" key="search.everywhere.popup" timestamp="1617139101687">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2065" y="259" width="670" height="676" key="search.everywhere.popup/0.25.1440.827/1440.25.1920.1055@1440.25.1920.1055" timestamp="1617139101687" />
+  </component>
+</project>
